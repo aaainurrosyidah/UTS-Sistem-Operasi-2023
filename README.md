@@ -4,7 +4,7 @@ Mata Kuliah : Sistem Operasi
 Sifat Ujian : Buku Terbuka, Take Home Test
 Batas Waktu : Jum’at, 26 Mei 2023
 Dosen : Dr. Eng. Ir. Aji Ery Burhandenny, S.T., M.AIT.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Berikut soal UTS Sistem Operasi 2023
 1) Jika diketahui 6 antrian proses (A, B, C, D, E, F) Dengan waktu kedatangan secara bersamaan yaitu: 0. Lama eksekusi tiap-tiap antrian proses secara berurutan 1,3,7,5,5,3. Hitunglah Turn Arround Time (TA) dengan menggunakan teknik penjadwalan proses:
   a. First In First Out (F I F O)
