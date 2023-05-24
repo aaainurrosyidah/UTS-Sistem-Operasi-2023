@@ -13,6 +13,7 @@ Berikut soal UTS Sistem Operasi 2023
       b. Shortest Job First (S J F)
       c. Round Robin jika diketahui Quantum = 2
 2) Dalam Penjadwalan proses terdapat tiga macam tipe penjadwalan, sebutkan dan jelaskan disertai gambar!
-3) Sumber daya apa yang digunakan saat thread dibuat? Bagaimana mereka berbeda dari yang digunakan ketika suatu proses dibuat?
+3) Sumber daya apa yang digunakan saat thread dibuat? Bagaimana mereka berbeda dari yang digunakan ketika 
+   suatu proses dibuat?
 4) Output apa yang akan ditampilkan pada LINE A? Jelaskan!
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
